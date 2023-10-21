@@ -1,0 +1,7 @@
+C:\Users\minor\source\repos\Examen1_prograII\Examen1_prograII\bin\Debug\Examen1_prograII.exe.config
+C:\Users\minor\source\repos\Examen1_prograII\Examen1_prograII\bin\Debug\Examen1_prograII.exe
+C:\Users\minor\source\repos\Examen1_prograII\Examen1_prograII\bin\Debug\Examen1_prograII.pdb
+C:\Users\minor\source\repos\Examen1_prograII\Examen1_prograII\obj\Debug\Examen1_prograII.csproj.AssemblyReference.cache
+C:\Users\minor\source\repos\Examen1_prograII\Examen1_prograII\obj\Debug\Examen1_prograII.csproj.CoreCompileInputs.cache
+C:\Users\minor\source\repos\Examen1_prograII\Examen1_prograII\obj\Debug\Examen1_prograII.exe
+C:\Users\minor\source\repos\Examen1_prograII\Examen1_prograII\obj\Debug\Examen1_prograII.pdb
